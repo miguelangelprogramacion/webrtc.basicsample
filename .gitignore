@@ -1,12 +1,12 @@
-+# Eclipse artifacts
-+/.project
-+
-+/.classpath
-+
-+/.settings
-+
-+
-+/bin
-+/target
-+
-+/.git
+# Eclipse artifacts
+/.project
+
+/.classpath
+
+/.settings
+
+/bin
+/target
+
+/.git
+
